@@ -1,4 +1,4 @@
-# Deep_Learning
+# Gestión básica
 Proyectos personal de gestion de inversiones
 
 Librerias utilizadas:
